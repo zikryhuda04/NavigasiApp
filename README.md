@@ -72,6 +72,4 @@ startActivity(intent)
 **NavigasiApp** membantu memahami dasar navigasi antar Activity di Android menggunakan **Intent**.
 Aplikasi ini menjadi dasar untuk pengembangan navigasi yang lebih kompleks seperti **Fragment** atau **Navigation Component**.
 
----
 
-Apakah kamu mau saya buatin juga README untuk **materi ke-4 (KirimDataApp)** biar formatnya sama dan rapi di GitHub?
